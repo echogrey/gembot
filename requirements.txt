@@ -1,0 +1,9 @@
+telepot==12.3
+xlrd==1.1.0
+bs4
+requests==2.7.0
+telebot==0.0.3
+logger==1.4
+flask==0.11
+gunicorn
+emoji==0.4.5
